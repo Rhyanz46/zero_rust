@@ -16,6 +16,7 @@ impl Data{
     }
 }
 
+
 fn main(){
     let data_baru = Data {width : 12, height: 30};
     data_baru.printkan();
